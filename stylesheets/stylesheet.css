@@ -158,6 +158,8 @@ pre, code, tt {
 
 pre {
   white-space: pre; }
+  
+  pre code { border-left: 0 }
 
 /* Lists -------------------------------------------------------------- */
 li ul, li ol {
