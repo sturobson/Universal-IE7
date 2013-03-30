@@ -1,22 +1,39 @@
 // variable overides (either overide here or edit the variables within the partial .scss files to your set up)
 
-$doc-font-size: 16px;
-$doc-line-height: 24px;
-$heading-font: Verdana, Geneva, sans-serif;
-$body-font: Georgia, Times, "Times New Roman", serif;
-$base-color: #d13400;
-$comp-color: #398cc2;
-$black: #150517; // your 'black' maybe a little nuanced
-$white: #f3f3f3; // your 'white' maybe a little nuanced
+// fonts
+	// heading font
+	$heading-font: Verdana, Geneva, sans-serif;
+	// 'everything else' font
+	$body-font: Georgia, Times, "Times New Roman", serif;
 
-$main-heading-color: $base-color;
-$sub-heading-color: $comp-color;
-$form-border-color: $comp-color;
-$table-border-color: $comp-color;
-$definition-list-border-color: $comp-color;
-
+// colours
+	$base-color: #d13400;
+	$comp-color: #398cc2;
+	// your 'black' maybe a little nuanced
+	$black: #150517;
+	// your 'white' maybe a little nuanced
+	$white: #f3f3f3;
 
 
+
+// 'in partial' colours
+
+	// 'in partial' heading colours
+	$main-heading-color: $base-color;
+	$sub-heading-color: $comp-color;
+
+	// 'in partial' form border colour
+	$form-border-color: $comp-color;
+
+	// 'in partial' table border colour
+	$table-border-color: $comp-color;
+
+	// 'in partial' definition list border colour
+	$definition-list-border-color: $comp-color;
+
+
+
+// All the imports
 
 @import"partials/_universal-IE7-thanks";
 @import"partials/_universal-IE7-reset";
@@ -26,8 +43,3 @@ $definition-list-border-color: $comp-color;
 @import"partials/_universal-IE7-lists";
 @import"partials/_universal-IE7-tables";
 @import"partials/_universal-IE7-forms";
-
-
-html {
-
-}
