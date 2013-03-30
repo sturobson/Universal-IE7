@@ -31,6 +31,12 @@
 	// 'in partial' definition list border colour
 	$definition-list-border-color: $comp-color;
 
+// dark or light design
+
+$light: true !default;
+
+@if $light == true {
+}
 
 
 // All the imports
