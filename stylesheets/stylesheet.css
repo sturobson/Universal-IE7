@@ -247,7 +247,7 @@ textarea {
   color: #fff;
   background-color: #d13400;
   display: block;
-  padding: 16px 3%;
+  padding: 16px 16px;
   border-bottom: 1px solid #ad2b00;
 }
 #header_wrap a {
