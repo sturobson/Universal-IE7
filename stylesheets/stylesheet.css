@@ -259,6 +259,7 @@ textarea {
 }
 #header_wrap h1, #header_wrap h2 {
   font-family: Verdana, Geneva, sans-serif;
+  color: #FFF;
 }
 
 #main_content_wrap {
