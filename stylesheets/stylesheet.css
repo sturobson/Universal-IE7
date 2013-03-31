@@ -261,6 +261,10 @@ textarea {
   font-family: Verdana, Geneva, sans-serif;
   color: #FFF;
 }
+#header_wrap h1 {
+  text-align: center;
+  margin-top: 16px;
+}
 
 #main_content_wrap {
   background: #2b2b2b;
