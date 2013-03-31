@@ -265,7 +265,7 @@ textarea {
 #header_wrap a:hover {
   color: #cccccc;
 }
-#header_wrap h1, #header_wrap h2 {
+#header_wrap h1, #header_wrap h2, #header_wrap a {
   font-family: Verdana, Geneva, sans-serif;
   color: #FFF;
 }
