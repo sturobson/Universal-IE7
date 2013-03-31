@@ -268,3 +268,10 @@ textarea {
   padding: 16px 3%;
   border-top: 1px solid #575757;
 }
+#main_content_wrap pre, #main_content_wrap code {
+  border: none;
+}
+
+#main_content_wrap h3 {
+  color: #fff
+}
