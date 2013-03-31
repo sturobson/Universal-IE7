@@ -253,9 +253,9 @@ textarea {
 #header_wrap a {
   color: #FFF;
   text-decoration: none;
-  display: block;
+  display: -inline-block;
   margin: 16px 0;
-  padding: 10px 6px;
+  padding: 10px 2px;
   background: #333333;
   width: 260px;
   border-radius: 4px;
