@@ -275,3 +275,6 @@ textarea {
 #main_content_wrap h3 {
   color: #fff
 }
+#main_content_wrap p {
+  font-size: 16px;
+}
