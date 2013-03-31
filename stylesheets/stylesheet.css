@@ -254,8 +254,8 @@ textarea {
   color: #FFF;
   text-decoration: none;
   display: -inline-block;
-  margin: 16px 0;
-  padding: 10px 6px;
+  margin: 16px 16px 16px 0;
+  padding: 10px 8px;
   background: #333333;
   width: 260px;
   border-radius: 4px;
