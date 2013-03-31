@@ -253,6 +253,14 @@ textarea {
 #header_wrap a {
   color: #FFF;
   text-decoration: none;
+  display: block;
+  margin: 16px 0;
+  padding: 10px 6px;
+  background: #333333;
+  width: 260px;
+  border-radius: 4px;
+  text-align: center;
+  box-shadow: 2px 2px 3px rgba(30, 30, 30, 0.5);
 }
 #header_wrap a:hover {
   color: #cccccc;
